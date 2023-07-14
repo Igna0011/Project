@@ -3,6 +3,7 @@
 
 4/2 Projekt kursus starter
 Første mail kontakt med kunden
+11
 
 20/2 testet git
 Oprettet repository og testet comandoer
